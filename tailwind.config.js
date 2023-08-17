@@ -19,10 +19,6 @@ export default {
       fontFamily: {
         "hanken-grotesk": ["Hanken Grotesk", "sans-serif"],
       },
-      screens: {
-        mobile: "480px",
-        "2k": "1440px",
-      },
     },
   },
   plugins: [],
